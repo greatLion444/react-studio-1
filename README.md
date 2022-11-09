@@ -4,7 +4,7 @@ Use this stencil code to get started!
 
 Make sure you're signed into your GitHub account (either real or anonymous is fine for this).
 
-If you do not follow these three steps for forking, your react app WILL NOT DEPLOY CORRECTLY!
+If you do not follow these three steps, your react app WILL NOT DEPLOY CORRECTLY!
 
 1) Start to fork the stencil by clicking the green **"Use this template"** button above.
 
