@@ -29,3 +29,5 @@ You may also see any lint errors in the console.
 ## Deploying
 
 We've included a GitHub Actions workflow that will automatically deploy your React app to GitHub Pages every time you push to the `main` branch. You can visit your site by visiting https://\<your GitHub username\>.github.io/react-studio
+
+Also there may be some latency with deploying, so it may take around 5 minutes after a commit to main before the website properly works.
