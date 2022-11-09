@@ -6,11 +6,11 @@ Make sure you're signed into your GitHub account (either real or anonymous is fi
 
 If you do not follow these three steps, your react app WILL NOT DEPLOY CORRECTLY!
 
-1) Start to fork the stencil by clicking the green **"Use this template"** button above.
+1) Start to copy the stencil by clicking the green **"Use this template"** button above.
 
 2) In the configuration menu, set the name to `react-studio` and **make it Public**
 
-3) Lastly, you must **check "Include all branches"**
+3) Lastly, you MUST **check "Include all branches"**
 
 Then, click "create repository from template" to create the repo in your github account. You can now clone the repository onto your local computer and open it in your editor of choice.
 
