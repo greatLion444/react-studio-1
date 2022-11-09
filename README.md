@@ -4,11 +4,13 @@ Use this stencil code to get started!
 
 Make sure you're signed into your GitHub account (either real or anonymous is fine for this).
 
-Then click the green "Use this template" button to create a copy of the repository on your own account.
+If you do not follow these three steps for forking, your react app WILL NOT DEPLOY CORRECTLY!
 
-**Set the name to `react-studio` and make it Public**
+1) Click the green **"Use this template"** button to initiate a copy of the repository on your own account.
 
-**Check "Include all branches"**
+2) In the menu, set the name to `react-studio` and **make it Public**
+
+3) Lastly, **check "Include all branches"**
 
 Then, clone your new repository and open it in your editor of choice.
 
